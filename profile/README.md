@@ -33,6 +33,8 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 | 27  | **[Money][27]**                           | Javascript/Typescript | [![Latest Version][i27]][l27] <br /> [![Downloads][d27]][l27]              | A simple and efficient money and currency conversion and formatting tool for JavaScript and TypeScript projects.                                                              |
 | 28  | **[Maplerad SDK][28]**                    | NodeJs/Typescript     | [![Latest Version][i28]][l28] <br /> [![Downloads][d28]][l28]              | NodeJs SDK for Maplerad API                                                                                                                                                   |
 | 29  | **[Arkstack][29]**                        | NodeJs/Typescript     | [![Latest Version][i29]][l29] <br /> [![Downloads][d29]][l29]              | Framework-agnostic TypeScript backend starter kits for H3, Express.js, e.t.c.                                                                                                 |
+| 30  | **[Oapiex][30]**                          | NodeJs/Typescript     | [![Latest Version][i30]][l30] <br /> [![Downloads][d30]][l30]              | Extract OpenAPI documents from ReadMe powered documentation sites and saved HTML files.                                                                                       |
+| 31  | **[Oapiex SDK Kit][31]**                          | NodeJs/Typescript     | [![Latest Version][i31]][l31] <br /> [![Downloads][d31]][l31]              | TypeScript Base for building SDKs using OpenAPI specifications extracted by OAPIEX.                                                                                       |
 
 [0]: https://h3ravel.toneflix.net
 [1]: https://github.com/toneflix/laravel-fileable
@@ -62,8 +64,9 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [26]: https://github.com/toneflix/flutterwave-4-nodejs-sdk
 [27]: https://github.com/toneflix/money
 [28]: https://github.com/toneflix/maplerad-sdk
-[29]: https://h3ravel.toneflix.net
-[30]: https://arkstack.toneflix.net
+[29]: https://arkstack.toneflix.net
+[30]: https://toneflix.github.io/oapiex
+[31]: https://toneflix.github.io/oapiex/reference/sdk-kit
 [i0]: https://img.shields.io/npm/v/@h3ravel/core.svg?style=flat-square
 [l0]: https://h3ravel.toneflix.net
 [d0]: https://img.shields.io/npm/dt/@h3ravel/core.svg?style=flat-square
@@ -151,3 +154,9 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [i29]: https://img.shields.io/npm/v/create-arkstack.svg?style=flat-square
 [l29]: https://www.npmjs.com/package/create-arkstack
 [d29]: https://img.shields.io/npm/dt/create-arkstack.svg?style=flat-square
+[i30]: https://img.shields.io/npm/v/oapiex.svg?style=flat-square
+[l30]: https://www.npmjs.com/package/oapiex
+[d30]: https://img.shields.io/npm/dt/oapiex.svg?style=flat-square
+[i31]: https://img.shields.io/npm/v/@oapiex/sdk-kit.svg?style=flat-square
+[l31]: https://www.npmjs.com/package/@oapiex/sdk-kit
+[d31]: https://img.shields.io/npm/dt/@oapiex/sdk-kit.svg?style=flat-square
